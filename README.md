@@ -9,7 +9,7 @@
 ## 🎓Experiences
 <p>
   <span style="color: gray;">2024.01 ~ 2024.12</span>
-  <b>삼성 청년 SW 아카데미(SSAFY) 11기 이수</b>
+  <b>삼성 청년 SW 아카데미(SSAFY) 11기 수료</b>
 </p>
 
 <br/>
