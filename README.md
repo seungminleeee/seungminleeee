@@ -99,10 +99,9 @@
 <br/>
 
 ## etc
-<div>
+<div align="center">
     <a href="https://solved.ac/tmdals77177">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals77177">
     </a>
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungminleeee&layout=compact&title_color=0369a1">
 </div>
