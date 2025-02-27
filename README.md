@@ -103,5 +103,11 @@
     <a href="https://solved.ac/tmdals77177">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals77177">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungminleeee&layout=compact&title_color=0369a1">
+    <img src="http://mazandi.herokuapp.com/api?handle=tmdals77177&theme=warm"/>
 </div>
+<div align="center">
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungminleeee&layout=compact&title_color=0369a1"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungminleeee&layout=compact&theme=flag-india"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=seungminleeee&show_icons=true&theme=flag-india"> -->
+</div>
+
