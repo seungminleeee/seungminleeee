@@ -44,7 +44,7 @@
 </p>
 
 <p>
-  <span style="color: gray;">2024.07 ~ 2024.08</span>
+  <span style="color: gray;">2024.05 ~ 2024.05</span>
   <b><a href="https://github.com/seungminleeee/MoFIN">MoFIN</a></b>
   <span style="color: gray;">금융 데이터를 활용한 금융 상품 비교 애플리케이션</span>
 </p>
