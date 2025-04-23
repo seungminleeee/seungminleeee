@@ -1,3 +1,4 @@
+<!--
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=0284c7&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=Hello!+I'm+LeeSeungMin+🤗">
@@ -5,7 +6,7 @@
 </div>
 
 <br/>
-
+-->
 ## 🎓Experiences
 <p>
   <span style="color: gray;">2024.01 ~ 2024.12</span>
