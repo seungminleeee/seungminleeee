@@ -26,31 +26,35 @@
 <br/>
 
 ## 👨‍💻Projects
-<p>
-  <span style="color: gray;">2024.10 ~ 2024.11</span> 
+<li>
+  <b><a href="https://github.com/mongeul/mongeulmongeul/tree/develop/FE">몽글몽글</a></b>
+  <span style="color: gray;"> | 친구와 함께 쓰는 그림일기 | 사이드 프로젝트</span>
+</li>
+
+<li>
   <b><a href="https://github.com/oodongdan">우리동네단골</a></b>
-  <span style="color: gray;">GS리테일 기업연계</span>
-</p>
+  <span style="color: gray;"> | GS리테일 기업연계 | SSAFY 팀 프로젝트</span>
+</li>
 
-<p>
-  <span style="color: gray;">2024.08 ~ 2024.10</span>
+<li>
+<!--   <span style="color: gray;">2024.08 ~ 2024.10</span> -->
   <b><a href="https://github.com/readygreen">언제그린</a></b>
-  <span style="color: gray;">보행자를 위한 신호등 잔여시간 제공 서비스</span>
-</p>
+  <span style="color: gray;"> | 보행자를 위한 신호등 잔여시간 제공 서비스 | SSAFY 팀 프로젝트</span>
+</li>
 
-<p>
-  <span style="color: gray;">2024.07 ~ 2024.08</span>
+<li>
+<!--   <span style="color: gray;">2024.07 ~ 2024.08</span> -->
   <b><a href="https://github.com/whereIsTheBusBUDDY/BUDDY">버스어디? BUDDY</a></b>
-  <span style="color: gray;">실시간 셔틀버스 위치 정보 앱</span>
-</p>
+  <span style="color: gray;"> | 실시간 셔틀버스 위치 정보 앱 | SSAFY 팀 프로젝트</span>
+</li>
 
-<p>
-  <span style="color: gray;">2024.05 ~ 2024.05</span>
+<li>
+<!--   <span style="color: gray;">2024.05 ~ 2024.05</span> -->
   <b><a href="https://github.com/seungminleeee/MoFIN">MoFIN</a></b>
-  <span style="color: gray;">금융 데이터를 활용한 금융 상품 비교 애플리케이션</span>
-</p>
+  <span style="color: gray;"> | 금융 상품 비교 애플리케이션 | SSAFY 팀 프로젝트</span>
+</li>
 
- 
+
 <br/>
 
 ## 💻Skill
