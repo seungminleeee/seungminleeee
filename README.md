@@ -70,10 +70,10 @@
   <img src="https://img.shields.io/badge/Context_API-6DB33F?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-EA580C?style=for-the-badge&logo=react&logoColor=white">
    <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/getX-8A2BE2?style=for-the-badge&logo=getx&logoColor=white">
-  <br>
+  <br> -->
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Pinia-FFC107?style=for-the-badge&logo=Vue.js&logoColor=white">
   <br>
@@ -105,9 +105,9 @@
 
 ## etc
 <div align="center">
-    <a href="https://solved.ac/tmdals77177">
+    <!-- <a href="https://solved.ac/tmdals77177">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals77177">
-    </a>
+    </a> -->
     <img src="http://mazandi.herokuapp.com/api?handle=tmdals77177&theme=warm"/>
 </div>
 <div align="center">
